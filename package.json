@@ -1,0 +1,17 @@
+{
+  "name": "design_patterns_asg",
+  "version": "1.0.0",
+  "description": "This node project is collection programs written in typescript to demonstarte deffirent design patterns",
+  "main": "app.ts",
+  "scripts": {
+   "start": "npm run build && node dist/app.js",
+    "build": "tsc"
+  },
+  "author": "Vishal Lawate",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
