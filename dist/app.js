@@ -1,5 +1,11 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // import "./src/Structural Pattern/adapter_pattern";
 // import "./src/Structural Pattern/facade_pattern";
-require("./src/Structural Pattern/proxy_pattern");
+//import "./src/Structural Pattern/proxy_pattern";
+Object.defineProperty(exports, "__esModule", { value: true });
+// import "./src/Creational Pattern/builder_pattern";
+// import "./src/Creational Pattern/factory_pattern";
+// import "./src/Creational Pattern/singletone_pattern";
+// import "./src/Behavioural Pattern/chain_of_responsibility_pattern";
+// import "./src/Behavioural Pattern/memento_pattern";
+require("./src/Behavioural Pattern/observer_pattern");
